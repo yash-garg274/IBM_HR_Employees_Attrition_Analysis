@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that analyzes employee attrition using the IBM HR Analytics dataset. The project identifies factors contributing to attrition, predicts employee attrition, and visualises key insights.
 
----
+
 
 ## **Objective**
 
@@ -11,7 +11,7 @@ The goal of this project is to:
 2. Implement Logistic Regression to find the coefficients of various Work-life balance features and train a machine learning model, Random Forest, to predict attrition.
 3. Visualize key metrics and insights for interpretability and decision-making.
 
----
+
 
 ## **Dataset**
 
@@ -26,7 +26,6 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
 - **JobSatisfaction**: Job satisfaction level (scale of 1 to 4).
 - **EnvironmentSatisfaction**: Work environment satisfaction level (scale of 1 to 4).
 
----
 
 ## **Workflow**
 
@@ -50,7 +49,6 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
    - **ROC Curve**:
      A Receiver Operating Characteristic curve for the Random Forest model, illustrating its predictive performance.
 
----
 
 ## **Results**
 
@@ -67,7 +65,7 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
 
 ### Model Performance:
 - **Random Forest Classifier** achieved high predictive accuracy for Non-Attrition.
----
+
 
 ## **How to Use**
 
@@ -86,14 +84,12 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
 4. **Run the Notebook**:
    - Execute the cells in sequence to preprocess the data, train models, and visualize results.
 
----
 
 ## **File Structure**
 
 - **`employee_attrition_analysis.ipynb`**: Jupyter Notebook containing the entire analysis, from preprocessing to model evaluation and visualization.
 - **Dataset**: The `IBM_HR_Employees.csv` file needs to be added to the repository for the notebook to run.
 
----
 
 ## **Future Enhancements**
 
@@ -101,7 +97,6 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
 - Explore hyperparameter tuning to optimize model performance.
 - Integrate interactive visualizations using tools like Plotly or Dash.
 
----
 
 ## **Acknowledgments**
 
