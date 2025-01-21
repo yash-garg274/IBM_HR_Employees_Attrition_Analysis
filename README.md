@@ -100,6 +100,6 @@ The dataset used in this project is the **IBM HR Analytics Employee Attrition & 
 
 ## **Acknowledgments**
 
-- Dataset source: [Kaggle - IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets).
+- Dataset source: [Kaggle - IBM HR Analytics Employee Attrition & Performance]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)).
 - Libraries used: `pandas`, `seaborn`, `matplotlib`, `scikit-learn`.
 
