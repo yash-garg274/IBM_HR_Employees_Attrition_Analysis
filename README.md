@@ -3,7 +3,6 @@
 This repository contains a Jupyter Notebook that analyzes employee attrition using the IBM HR Analytics dataset. The project identifies factors contributing to attrition, predicts employee attrition, and visualises key insights.
 
 
-
 ## **Objective**
 
 The goal of this project is to:
